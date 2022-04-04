@@ -1,5 +1,5 @@
 """
-Simple "Hello, World" application using Flask
+websites that take location name as input and return the nearest station name and if it is wheelchair accessible.
 """
 
 from flask import Flask,render_template, request
